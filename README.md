@@ -15,7 +15,7 @@ CLIENT_SECRET="CLIENT_SECRET_ID"
 ARTIST_ID = 'ARTIST_ID'
 ```
 
-Create the Spotify API credentials on [Spotify for developers](https://developer.spotify.com/).
+Create the Spotify API credentials on [Spotify for developers](https://developer.spotify.com/).\n
 You can find the ARTIST_ID in the Spotify WebSite URL: https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05P -> 1Xyo4u8uXC1ZmMpatF05P.
 
 
